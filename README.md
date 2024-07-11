@@ -1,7 +1,7 @@
-The purpose of this assignment is to:
+# Objective:
 
-Create a Jupyter Notebook
+- Create a Jupyter Notebook
 
-Insert code and markdown cells
+- Insert code and markdown cells
 
-Share your notebook through GitHub
+- Share your notebook through GitHub
