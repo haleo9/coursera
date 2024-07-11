@@ -4,4 +4,4 @@
 
 - Insert code and markdown cells
 
-- Share your notebook through GitHub
+- Share notebook through GitHub
